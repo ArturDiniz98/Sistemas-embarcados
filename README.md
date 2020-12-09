@@ -31,7 +31,7 @@
 ### Alunos
 
 * Alexsander S. Sena
-* Arthur T. Diniz
+* Artur T. Diniz
 * Danilo H. Akiyama
 * Guillhermo A. Krauch
 
